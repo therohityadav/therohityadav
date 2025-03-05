@@ -51,7 +51,6 @@ _The Linux Foundation | Remote (Fort Collins, Colorado, United States)_
 
 ## Contact
 
-- **Email:** [rohityadavconnect@gmail.com](mailto:rohityadavconnect@gmail.com)
 - **LinkedIn:** [linkedin.com/in/the-rohityadav](https://linkedin.com/in/the-rohityadav)
 - **GitHub:** [github.com/therohityadav](https://github.com/therohityadav)
 
