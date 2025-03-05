@@ -38,7 +38,7 @@ _JSS Academy of Technical Education, Noida_ (Oct 2023 – Present)
 
 ## Experience
 
-### LFX Linux Kernel – Bug Fixing  
+### LFX Linux Kernel Bug Fixing  
 _The Linux Foundation | Remote (Fort Collins, Colorado, United States)_  
 **Mar 2025 - Present**
 
